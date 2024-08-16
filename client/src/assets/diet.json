@@ -1,0 +1,1259 @@
+{
+    "Diets": {
+        "dietaryPreferences": {
+            "Vegetarian": {
+                "dietPlan": {
+                    "Monday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Greek yogurt with honey and almonds",
+                                    "Mixed berry smoothie"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Chickpea and quinoa salad",
+                                    "Roasted vegetable medley"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegetarian stir-fry with tofu",
+                                    "Brown rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Hummus with carrot and cucumber sticks",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Tuesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Overnight oats with chia seeds and berries",
+                                    "Green tea"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled vegetable sandwich",
+                                    "Sweet potato fries"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Lentil soup",
+                                    "Whole-grain bread"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Granola bar"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Wednesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Smoothie bowl with banana, spinach, and protein powder",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Black bean and corn salad",
+                                    "Avocado slices"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Stuffed bell peppers with quinoa and black beans",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Cottage cheese with pineapple",
+                                    "Protein shake"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Thursday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Scrambled eggs with spinach and feta",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Falafel wrap with tahini sauce",
+                                    "Cucumber and tomato salad"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Eggplant Parmesan",
+                                    "Whole-wheat spaghetti"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Hummus with veggie sticks",
+                                    "Trail mix"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Friday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Oatmeal with sliced banana and peanut butter",
+                                    "Green tea"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Vegetarian chili",
+                                    "Cornbread"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Mushroom risotto",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Greek yogurt with honey and granola",
+                                    "Mixed berries"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Saturday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Avocado toast with poached eggs",
+                                    "Fruit salad"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Vegetable stir-fry with tofu",
+                                    "Brown rice"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegetarian lasagna",
+                                    "Garlic bread"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Cottage cheese with apple slices",
+                                    "Protein shake"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Sunday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Omelette with mushrooms, peppers, and cheese",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Vegetarian burrito bowl with black beans and rice",
+                                    "Salsa and guacamole"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Stuffed zucchini boats with quinoa and vegetables",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with peanut butter",
+                                    "Trail mix"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    }
+                }
+            },
+            "Balanced": {
+                "dietPlan": {
+                    "Monday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Oatmeal with berries",
+                                    "1 boiled egg"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled chicken breast",
+                                    "Quinoa salad",
+                                    "Steamed broccoli"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Salmon fillet",
+                                    "Roasted sweet potatoes",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Greek yogurt with honey",
+                                    "Almonds"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Tuesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Smoothie with spinach, banana, and protein powder",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Turkey wrap with whole-grain tortilla",
+                                    "Carrot sticks",
+                                    "Apple"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Stir-fried tofu with vegetables",
+                                    "Brown rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Protein bar",
+                                    "Berries"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Wednesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Greek yogurt with granola and berries"
+                                ],
+                                "calories": 300
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled shrimp salad with avocado",
+                                    "Whole-grain roll"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Beef stir-fry with mixed vegetables",
+                                    "Brown rice"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Cottage cheese",
+                                    "Fruit smoothie"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Thursday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Scrambled eggs with spinach and tomatoes",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Chicken Caesar salad",
+                                    "Whole-grain roll"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Grilled fish tacos with slaw",
+                                    "Black beans"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Hummus with veggie sticks",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Friday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Protein pancakes with banana",
+                                    "Greek yogurt"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Quinoa and black bean salad",
+                                    "Mixed greens"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Baked chicken with roasted vegetables",
+                                    "Sweet potato mash"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Smoothie with almond milk, spinach, and berries",
+                                    "Granola bar"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Saturday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Avocado toast with poached eggs",
+                                    "Fruit salad"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled chicken sandwich with avocado",
+                                    "Side salad"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Spaghetti with turkey meatballs",
+                                    "Steamed green beans"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Cottage cheese with pineapple",
+                                    "Protein shake"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Sunday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Omelette with mushrooms and cheese",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Tuna salad with mixed greens",
+                                    "Whole-grain crackers"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Chicken stir-fry with broccoli",
+                                    "Brown rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with peanut butter",
+                                    "Trail mix"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    }
+                }
+            },
+            "Vegan": {
+                "dietPlan": {
+                    "Monday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Vegan smoothie with almond milk, banana, and spinach",
+                                    "Whole-grain toast with avocado"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Quinoa and black bean salad",
+                                    "Steamed broccoli"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Chickpea curry with brown rice",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Tuesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Oatmeal with almond milk, berries, and chia seeds"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled vegetable wrap with hummus",
+                                    "Carrot sticks"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegan stir-fry with tofu and vegetables",
+                                    "Brown rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Coconut yogurt with granola",
+                                    "Berries"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Wednesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Smoothie bowl with banana, blueberries, and almond butter"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Lentil and vegetable soup",
+                                    "Whole-grain roll"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Stuffed bell peppers with quinoa and black beans",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Celery sticks with peanut butter",
+                                    "Trail mix"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Thursday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Tofu scramble with spinach and mushrooms",
+                                    "Whole-grain toast"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Falafel bowl with quinoa, hummus, and vegetables"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegan chili with black beans and corn",
+                                    "Cornbread"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with tahini",
+                                    "Mixed berries"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Friday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Chia pudding with almond milk, banana, and nuts"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Vegan burrito with black beans, rice, and vegetables"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegan spaghetti with marinara sauce and lentil meatballs",
+                                    "Steamed green beans"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Coconut yogurt with granola",
+                                    "Fruit smoothie"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Saturday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Avocado toast with tomatoes",
+                                    "Fruit salad"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Vegan sushi rolls with avocado and cucumber",
+                                    "Edamame"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegan pizza with cashew cheese and vegetables",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Smoothie with almond milk, spinach, and berries",
+                                    "Granola bar"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Sunday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Oatmeal with almond milk, berries, and nuts"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Vegan pasta salad with vegetables and chickpeas"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Vegetable stir-fry with tofu",
+                                    "Brown rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Trail mix"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    }
+                }
+            },
+            "Paleo": {
+                "dietPlan": {
+                    "Monday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Scrambled eggs with spinach and mushrooms",
+                                    "Side of fresh berries"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled chicken breast",
+                                    "Mixed greens salad with avocado and olive oil dressing"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Baked salmon",
+                                    "Roasted Brussels sprouts",
+                                    "Sweet potato mash"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Tuesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Smoothie with almond milk, banana, spinach, and almond butter"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Turkey lettuce wraps with avocado and tomato",
+                                    "Carrot sticks"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Beef stir-fry with broccoli and bell peppers",
+                                    "Cauliflower rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Coconut yogurt with fresh berries",
+                                    "Celery sticks with almond butter"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Wednesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Omelette with tomatoes, onions, and bell peppers",
+                                    "Side of fresh fruit"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled shrimp salad with mixed greens, avocado, and olive oil dressing"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Roasted chicken thighs",
+                                    "Steamed asparagus",
+                                    "Sweet potato fries"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Thursday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Smoothie with coconut milk, banana, spinach, and almond butter"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Beef lettuce wraps with avocado and tomato",
+                                    "Carrot sticks"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Paleo meatballs with zucchini noodles",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Coconut yogurt with fresh berries",
+                                    "Celery sticks with almond butter"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Friday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Scrambled eggs with mushrooms and spinach",
+                                    "Side of fresh berries"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled salmon",
+                                    "Mixed greens salad with avocado and olive oil dressing"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Beef stir-fry with broccoli and bell peppers",
+                                    "Cauliflower rice"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Saturday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Omelette with tomatoes, onions, and bell peppers",
+                                    "Side of fresh fruit"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled shrimp salad with mixed greens, avocado, and olive oil dressing"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Roasted chicken thighs",
+                                    "Steamed asparagus",
+                                    "Sweet potato fries"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Apple slices with almond butter",
+                                    "Mixed nuts"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Sunday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Smoothie with coconut milk, banana, spinach, and almond butter"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Beef lettuce wraps with avocado and tomato",
+                                    "Carrot sticks"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Paleo meatballs with zucchini noodles",
+                                    "Mixed greens salad"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Coconut yogurt with fresh berries",
+                                    "Celery sticks with almond butter"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    }
+                }
+            },
+            "Keto": {
+                "dietPlan": {
+                    "Monday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Bacon and eggs",
+                                    "Avocado slices"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled chicken salad with olive oil dressing and cheese"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Salmon with buttered asparagus"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Cheese sticks",
+                                    "Olives"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Tuesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Keto smoothie with spinach, avocado, and coconut milk"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Turkey lettuce wraps with cheese and mayo"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Pork chops with cauliflower mash"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Almonds",
+                                    "Celery sticks with cream cheese"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Wednesday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Scrambled eggs with cheese and spinach"
+                                ],
+                                "calories": 350
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Cobb salad with avocado, bacon, and blue cheese dressing"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Beef stir-fry with broccoli"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Keto fat bombs",
+                                    "Pepperoni slices"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Thursday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Keto pancakes with butter"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Chicken Caesar salad with extra dressing"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Grilled steak with garlic butter and green beans"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Cucumber slices with ranch dip",
+                                    "Cheese cubes"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Friday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Bacon and egg muffins"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Tuna salad with mayonnaise and celery"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Chicken thighs with roasted Brussels sprouts"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Macadamia nuts",
+                                    "Hard-boiled eggs"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Saturday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Avocado and bacon egg cups"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Grilled shrimp with avocado salad"
+                                ],
+                                "calories": 600
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Lamb chops with a side of spinach"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Almond flour crackers with cheese",
+                                    "Dark chocolate"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    },
+                    "Sunday": {
+                        "meals": [
+                            {
+                                "name": "Breakfast",
+                                "items": [
+                                    "Keto smoothie with coconut milk, spinach, and chia seeds"
+                                ],
+                                "calories": 400
+                            },
+                            {
+                                "name": "Lunch",
+                                "items": [
+                                    "Chicken bacon ranch lettuce wraps"
+                                ],
+                                "calories": 550
+                            },
+                            {
+                                "name": "Dinner",
+                                "items": [
+                                    "Pork tenderloin with garlic butter and zucchini noodles"
+                                ],
+                                "calories": 500
+                            },
+                            {
+                                "name": "Snacks",
+                                "items": [
+                                    "Celery with peanut butter",
+                                    "Cheese sticks"
+                                ],
+                                "calories": 200
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

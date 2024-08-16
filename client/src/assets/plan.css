@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .chat {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 400px;
+  }
+  
+  .user {
+    text-align: right;
+    padding: 10px;
+    background-color: #e0f7fa;
+    border-radius: 10px;
+    margin: 10px 0;
+  }
+  
+  .coach {
+    text-align: left;
+    padding: 10px;
+    background-color: #fce4ec;
+    border-radius: 10px;
+    margin: 10px 0;
+  }
+  
+  .button-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .button-group button {
+    flex: 1;
+    margin: 0 5px;
+  }

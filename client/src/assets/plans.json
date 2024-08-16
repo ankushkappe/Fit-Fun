@@ -1,0 +1,517 @@
+{
+    "workoutPlan": {
+      "muscleGroups": {
+        "Chest": {
+          "Monday": {
+            "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": 3,
+                "reps": "8-12"
+              },
+              {
+                "name": "Incline Dumbbell Press",
+                "sets": 3,
+                "reps": "10-15"
+              },
+              {
+                "name": "Decline Push-ups",
+                "sets": 3,
+                "reps": "your limit"
+              }
+            ]
+          },
+          "Tuesday": {
+            "exercises": [
+              "Rest"
+            ]
+          },
+          "Wednesday": {
+            "exercises": [
+              {
+                "name": "Dumbbell Flyes",
+                "sets": 3,
+                "reps": "10-15"
+              },
+              {
+                "name": "Cable Crossovers",
+                "sets": 3,
+                "reps": "12-15"
+              },
+              {
+                "name": "Chest Dips",
+                "sets": 3,
+                "reps": "your limit"
+              }
+            ]
+          },
+          "Thursday": {
+            "exercises": [
+              "Rest"
+            ]
+          },
+          "Friday": {
+            "exercises": [
+              {
+                "name": "Machine Chest Press",
+                "sets": 3,
+                "reps": "12-15"
+              },
+              {
+                "name": "Push-ups (wide grip)",
+                "sets": 3,
+                "reps": "your limit"
+              },
+              {
+                "name": "Incline Dumbbell Flyes",
+                "sets": 3,
+                "reps": "10-12"
+              }
+            ]
+          },
+          "Saturday": {
+            "exercises": [
+              "Rest"
+            ]
+          },
+          "Sunday": {
+            "exercises": [
+              "Rest"
+            ]
+            }
+          },
+          "Abs": {
+            "Monday": {
+              "exercises": [
+                "Rest"
+              ]
+            },
+            "Tuesday": {
+              "exercises": [
+                {
+                  "name": "Crunches",
+                  "sets": 3,
+                  "reps": "15-20"
+                },
+                {
+                  "name": "Russian Twists",
+                  "sets": 3,
+                  "reps": "12-15 per side"
+                },
+                {
+                  "name": "Plank",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                }
+              ]
+            },
+            "Wednesday": {
+              "exercises": [
+                {
+                  "name": "Leg Raises",
+                  "sets": 3,
+                  "reps": "10-15"
+                },
+                {
+                  "name": "Hanging Knee Raises",
+                  "sets": 3,
+                  "reps": "your limit"
+                }
+              ]
+            },
+            "Thursday": {
+              "exercises": [
+                {
+                  "name": "Side Plank (right)",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                },
+                {
+                  "name": "Side Plank (left)",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                },
+                {
+                  "name": "Bicycle Crunches",
+                  "sets": 3,
+                  "reps": "12-15 per side"
+                }
+              ]
+            },
+            "Friday": {
+              "exercises": [
+                "Rest"
+              ]
+            },
+            "Saturday": {
+              "exercises": [
+                {
+                  "name": "Hollow Body Hold",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                },
+                {
+                  "name": "Mountain Climbers",
+                  "sets": 3,
+                  "reps": "20-30 seconds"
+                }
+              ]
+            },
+            "Sunday": {
+              "exercises": [
+                "Rest"
+              ]
+            }
+          },
+          "Legs" :{
+            "Monday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Tuesday": {
+                "exercises": [
+                  {
+                    "name": "Squats",
+                    "sets": 3,
+                    "reps": "8-12"
+                  },
+                  {
+                    "name": "Leg Press",
+                    "sets": 3,
+                    "reps": "10-15"
+                  },
+                  {
+                    "name": "Hamstring Curls",
+                    "sets": 3,
+                    "reps": "12-15"
+                  },
+                  {
+                    "name": "Calf Raises",
+                    "sets": 3,
+                    "reps": "15-20"
+                  }
+                ]
+              },
+              "Wednesday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Thursday": {
+                "exercises": [
+                  {
+                    "name": "Lunges",
+                    "sets": 3,
+                    "reps": "10-12 per leg"
+                  },
+                  {
+                    "name": "Romanian Deadlifts",
+                    "sets": 3,
+                    "reps": "10-15"
+                  },
+                  {
+                    "name": "Glute Bridges",
+                    "sets": 3,
+                    "reps": "15-20"
+                  }
+                ]
+              },
+              "Friday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Saturday": {
+                "exercises": [
+                  {
+                    "name": "Calf Raises (seated)",
+                    "sets": 3,
+                    "reps": "15-20"
+                  },
+                  {
+                    "name": "Lateral Lunges",
+                    "sets": 3,
+                    "reps": "10-12 per leg"
+                  },
+                  {
+                    "name": "Inner Thigh Squeezes",
+                    "sets": 3,
+                    "reps": "15-20"
+                  }
+                ]
+              },
+              "Sunday": {
+                "exercises": [
+                  "Rest"
+                ]
+              }
+          },
+          "Upper Body": {
+            "Monday": { 
+                "exercises": [
+              {
+                "name": "Bench Press",
+                "sets": 3,
+                "reps": "8-12"
+              },
+              {
+                "name": "Incline Dumbbell Press",
+                "sets": 3,
+                "reps": "10-15"
+              },
+              {
+                "name": "Decline Push-ups",
+                "sets": 3,
+                "reps": "your limit"
+              }
+            ]
+            },
+              "Tuesday": {
+                "exercises": [
+                  {
+                    "name": "Pull-ups",
+                    "sets": 3,
+                    "reps": "as many reps as possible"
+                  },
+                  {
+                    "name": "Barbell Rows",
+                    "sets": 3,
+                    "reps": "8-12"
+                  },
+                  {
+                    "name": "Overhead Press",
+                    "sets": 3,
+                    "reps": "10-15"
+                  },
+                  {
+                    "name": "Bicep Curls",
+                    "sets": 3,
+                    "reps": "12-15"
+                  }
+                ]
+              },
+              "Wednesday": {
+                "exercises": [
+                {
+                  "name": "Leg Raises",
+                  "sets": 3,
+                  "reps": "10-15"
+                },
+                {
+                  "name": "Hanging Knee Raises",
+                  "sets": 3,
+                  "reps": "your limit"
+                }
+              ]
+              },
+              "Thursday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Friday": {
+                "exercises": [
+                  {
+                    "name": "Dips",
+                    "sets": 3,
+                    "reps": "your limit"
+                  },
+                  {
+                    "name": "Lateral Raises",
+                    "sets": 3,
+                    "reps": "10-15"
+                  },
+                  {
+                    "name": "Tricep Pushdowns",
+                    "sets": 3,
+                    "reps": "12-15"
+                  },
+                  {
+                    "name": "Hammer Curls",
+                    "sets": 3,
+                    "reps": "12-15"
+                  }
+                ]
+              },
+              "Saturday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Sunday": {
+                "exercises": [
+                  "Rest"
+                ]
+              }
+            },
+            "Lower Body": {
+              "Monday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Tuesday": {
+                "exercises": [
+                  {
+                    "name": "Squats",
+                    "sets": 3,
+                    "reps": "8-12"
+                  },
+                  {
+                    "name": "Leg Press",
+                    "sets": 3,
+                    "reps": "10-15"
+                  },
+                  {
+                    "name": "Hamstring Curls",
+                    "sets": 3,
+                    "reps": "12-15"
+                  },
+                  {
+                    "name": "Calf Raises",
+                    "sets": 3,
+                    "reps": "15-20"
+                  }
+                ]
+              },
+              "Wednesday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Thursday": {
+                "exercises": [
+                  {
+                    "name": "Lunges",
+                    "sets": 3,
+                    "reps": "10-12 per leg"
+                  },
+                  {
+                    "name": "Romanian Deadlifts",
+                    "sets": 3,
+                    "reps": "10-15"
+                  },
+                  {
+                    "name": "Glute Bridges",
+                    "sets": 3,
+                    "reps": "15-20"
+                  }
+                ]
+              },
+              "Friday": {
+                "exercises": [
+                  "Rest"
+                ]
+              },
+              "Saturday": {
+                "exercises": [
+                  {
+                    "name": "Calf Raises (seated)",
+                    "sets": 3,
+                    "reps": "15-20"
+                  },
+                  {
+                    "name": "Lateral Lunges",
+                    "sets": 3,
+                    "reps": "10-12 per leg"
+                  },
+                  {
+                    "name": "Inner Thigh Squeezes",
+                    "sets": 3,
+                    "reps": "15-20"
+                  }
+                ]
+              },
+              "Sunday": {
+                "exercises": [
+                  "Rest"
+                ]
+              }
+            },
+            "Full Body": {
+              "Monday": {
+              "exercises": [
+                "Rest"
+              ]
+            },
+            "Tuesday": {
+              "exercises": [
+                {
+                  "name": "Crunches",
+                  "sets": 3,
+                  "reps": "15-20"
+                },
+                {
+                  "name": "Russian Twists",
+                  "sets": 3,
+                  "reps": "12-15 per side"
+                },
+                {
+                  "name": "Plank",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                }
+              ]
+            },
+            "Wednesday": {
+              "exercises": [
+                {
+                  "name": "Leg Raises",
+                  "sets": 3,
+                  "reps": "10-15"
+                },
+                {
+                  "name": "Hanging Knee Raises",
+                  "sets": 3,
+                  "reps": "your limit"
+                }
+              ]
+            },
+            "Thursday": {
+              "exercises": [
+                {
+                  "name": "Side Plank (right)",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                },
+                {
+                  "name": "Side Plank (left)",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                },
+                {
+                  "name": "Bicycle Crunches",
+                  "sets": 3,
+                  "reps": "12-15 per side"
+                }
+              ]
+            },
+            "Friday": {
+              "exercises": [
+                "Rest"
+              ]
+            },
+            "Saturday": {
+              "exercises": [
+                {
+                  "name": "Hollow Body Hold",
+                  "sets": 3,
+                  "reps": "hold for 30-60 seconds"
+                },
+                {
+                  "name": "Mountain Climbers",
+                  "sets": 3,
+                  "reps": "20-30 seconds"
+                }
+              ]
+            },
+            "Sunday": {
+              "exercises": [
+                "Rest"
+              ]
+            }
+          }
+      }
+    }
+  }
